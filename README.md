@@ -1,8 +1,7 @@
-##  ECOLE 
+## ECOLE
 
-Html ve Css kodlari kullanarak tasarlanmstir.
+Designed using HTML and CSS.
 
 ## GIF
 
 <img src="ecole.gif" />
-
